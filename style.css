@@ -1,0 +1,28 @@
+h1 {
+	border: 1px solid black;
+	width: 250px;
+	height: 60px;
+	padding-top: 10px;
+	padding-left: 5px;
+	margin-left: 15px;
+}
+ h1:first-letter {
+	border: 5px solid yellow;
+	background: yellow;
+}
+h2:first-letter {
+	font-size: 50px;
+	
+}
+span.data {
+	border: 1px solid black;
+}
+span.tegs {
+	background: yellow;
+}
+span.style {
+	background: yellow;
+}
+span.forma {
+	background: yellow;
+}
